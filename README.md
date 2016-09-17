@@ -29,7 +29,8 @@ Hello world!
 
 ## Acknowledgements
 
-This is the code for a blog post of mine and I didn't make up everything myself, so thanks to 
+This is the code for a [blog post](https://www.daniel-krebs.net/first-steps-on-aach64.html)
+and I didn't make up everything myself, so thanks to
 [freedomtan](https://github.com/freedomtan/aarch64-bare-metal-qemu) and ultimately also
 [Balau](https://balau82.wordpress.com/2010/02/28/hello-world-for-bare-metal-arm-using-qemu/).
 
